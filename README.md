@@ -1,5 +1,2 @@
 # hello-world
-This is my first test repository
-I thought I would run through the tutotial to see how the github tutorial works
-Adding a third line to the ReadMe to try myself
-Mmm -maybe need new branch
+I'm a business Central Developer  with 22 years experiant working with Navision, then Attain, NAV and now BC
